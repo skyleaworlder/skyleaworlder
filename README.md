@@ -19,21 +19,24 @@
 ### 我在干什么？
 
 * 暂以扩宽眼界为目标，高强度补之前没学过的必修课；
-* 12 月 ~ 1 月，绝赞肝 `ddl` + 复习备考中；
-* [@TJ-CSCCG](https://github.com/TJ-CSCCG) 不时更新，`R` 技能处于 `CD time`；
-* 能够拿到良就是我天大的荣幸啊！
+* 1 月，绝赞肝 `ddl` + 复习备考中；
+* [@TJ-CSCCG](https://github.com/TJ-CSCCG) 预备寒假更新，`R` 技能处于 `CD time`；
+* 操作系统、编译原理能够拿到良就是我天大的荣幸啊！
 
 [![skyleaworlder's github stats](https://github-readme-stats.vercel.app/api?username=skyleaworlder)](https://github.com/anuraghazra/github-readme-stats)
 
 [![skyleaworlder's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skyleaworlder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 未来一段想做什么？
+
+### 未来一段时间想做点什么？
 
 * 学几门之前没用过的编程语言；
-* 实现几个有趣的、大众化的小玩意儿；
+* 实现几个对自己来说实用且有趣的小玩意儿；
 * 锻炼自己的 `coding` 能力、巩固专业知识；
-* 搞台新电脑。
+* 有机会搞台新电脑。
+
+
 
 ### 我对以下内容无任何了解
 
