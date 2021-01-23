@@ -19,9 +19,9 @@
 ### 我在干什么？
 
 * 暂以扩宽眼界为目标，高强度补之前没学过的必修课；
-* 1 月，绝赞肝 `ddl` + 复习备考中；
-* [@TJ-CSCCG](https://github.com/TJ-CSCCG) 预备寒假更新，`R` 技能处于 `CD time`；
-* 操作系统、编译原理能够拿到良就是我天大的荣幸啊！
+* 1 月，考试周终于过去啦！打算抽时间完成过去未完成的工作，并打算开拓一块自己未曾设想的道路；
+* [@TJ-CSCCG](https://github.com/TJ-CSCCG) 更新陆续开始，抽时间做一点；
+* 开始出成绩了，虽然这学期的状态拿到良就很满意了，但还是很想要优呀。
 
 [![skyleaworlder's github stats](https://github-readme-stats.vercel.app/api?username=skyleaworlder)](https://github.com/anuraghazra/github-readme-stats)
 
