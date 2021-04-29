@@ -4,45 +4,41 @@
 
 ### 我是谁？
 
-:walking: `skyleaworlder` 是一个普通人，什么都还不会
-
-:rice: 这个名字很平淡，因为每天都过着平淡的生活，想不出什么好名字
-
-:pray: 但是 `skyleaworlder` 一直期望着发生些什么，来改变他的生活
-
-:watch: 于是，那一天
-
-:shoe: “哒，哒，哒……” 他的耳畔响起了陌生的声音
-
+* 书法艺术爱好者；
+* 同济大学 搬砖工 | 本科三年级在读；
+* 不午睡 不玩手机 日间思考永不停息。
 
 
 ### 我在干什么？
 
-* 慕强ing...
-* 读点有关分布式的书；
-* 惟新人，开物魂，宁远都是人上人。
-* 这是你属于别人的四月。
+* 慕强 ing...
+* 5 月我应该在学习操作系统和数据结构；
+* 希望事事顺遂。
 
-[![skyleaworlder's github stats](https://github-readme-stats.vercel.app/api?username=skyleaworlder)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary>点击查看我的搬砖数据</summary>
 
-[![skyleaworlder's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skyleaworlder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-### 未来一段时间想做点什么？
-
-* 实现几个对自己来说实用且有趣的小玩意儿；
-* 锻炼自己的 `coding` 能力、巩固专业知识；
-* 我应该有我自己的责任和担当才对。
-
-
-### 我对以下内容无任何了解
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=skyleaworlder" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=skyleaworlder&layout=compact" />
+</p>
 
 * :desktop_computer: ![C](https://img.shields.io/badge/programming-language-lightgrey?logo=c)  ![python](https://img.shields.io/badge/python-3-blue?logo=python)  ![C++](http://img.shields.io/badge/C%2B%2B-but%20C%20style-green?logo=c%2B%2B) 
 * :honeybee:   ![go](https://img.shields.io/badge/go-lang-blue?logo=go)  ![ECMAScript](https://img.shields.io/badge/ECMAScript-6-yellow?logo=javascript)  ![TypeScript](https://img.shields.io/static/v1?label=TypeScript&message=3.0+&color=007ACC&logo=typescript)  ![julia](https://img.shields.io/static/v1?label=Julia&message=newbee&color=9558B2&logo=julia)
 * :globe_with_meridians: ![html5](https://img.shields.io/badge/HTML-5-red?logo=html5)  ![vue3](https://img.shields.io/badge/Vue-3+-green?logo=vue.js)  ![flask](https://img.shields.io/badge/flask-1.1%2B-lightgrey?logo=flask) ![mysql](https://img.shields.io/badge/MySQL-5.7%2B-red?logo=mysql) 
 * :hammer_and_wrench: ![Markdown](http://img.shields.io/badge/Markdown-grey?logo=markdown) ![LaTeX](http://img.shields.io/badge/LaTeX-grey?logo=latex) ![Git](http://img.shields.io/badge/Git-grey?logo=git) 
 
+（本人对以上内容均无任何深入了解）
 一直秉持 **语言只是工具** 思想，但很可惜并未像大多数同样持有本思想的人拥有扎实的基本功。
+
+</details>
+
+
+### 未来一段时间想做点什么？
+
+* 实现几个对自己来说实用且有趣的小玩意儿；
+* 锻炼自己的 `coding` 能力、巩固专业知识；
+* 做自己想做的事情，推自己想推的任务，过自己想过的生活，爱自己想爱的人。
+
 
 ###### 虽然有些晚了，但还是想学很多东西。
