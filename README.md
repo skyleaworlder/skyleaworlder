@@ -2,6 +2,8 @@
 
 skyleaworlder, an ordinary junior developer.
 
+(Most of the private commits belong to projects of **@FudanSELab**, which are closely related to some enterprises.)
+
 <details>
 <summary>Click to know more.</summary>
 <p align="left">
