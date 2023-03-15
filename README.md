@@ -2,7 +2,7 @@
 
 skyleaworlder, an ordinary junior developer.
 
-(Most of the private commits belong to projects of **@FudanSELab**, which are closely related to some enterprises.)
+(Most of my private commits belong to the projects of **@FudanSELab**.)
 
 <details>
 <summary>Click to know more.</summary>
