@@ -16,9 +16,9 @@ skyleaworlder, an ordinary junior software development engineer.
 
 <p align="center">现在实习、社招均有 hc。</p>
 
-<p align="center">如果您想投递实习岗位，希望您对 AI Coding 方向感兴趣并期望深度参与效果工程。</p>
+<p align="center">如果您想投递实习岗位，希望您对 AI Coding 领域感兴趣并期望深度参与效果工程。</p>
 
-<p align="center">如果您想投递社招岗位，希望您具备 “参与从客户端到服务端的全流程开发能力” 以及 “对 AI Coding 领域的策略算法和效果工程的见解”。</p>
+<p align="center">如果您想投递社招岗位，希望您具备 “参与从客户端到服务端的全流程开发能力” 以及 “对 AI Coding 领域效果工程的见解”。</p>
 
 <p align="center">可将简历投递到这个邮箱：<b>jiagengli@bytedance.com</b>.</p>
 
